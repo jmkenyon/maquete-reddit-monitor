@@ -37,6 +37,15 @@ SUBREDDITS = [
     "revit",
     "Blender",
     "InteriorDesign",
+    "architects",
+    "Rhino",
+    "AutoCAD",
+    "3Dmodeling",
+    "archviz",
+    "Lumion",
+    "enscape3d",
+    "unrealengine",  # archviz community uses UE5
+    "cinematography",  # render quality discussions
 ]
 
 KEYWORDS = [
@@ -57,7 +66,22 @@ KEYWORDS = [
     "enscape",
     "lumion",
     "twinmotion",
+    "archviz",
+    "architectural visualization",
+    "design presentation",
+    "render engine",
+    "realistic render",
+    "how to render",
+    "render quality",
+    "render time",
+    "render cost",
+    "d5 render",
+    "corona renderer",
+    "cheap render",
+    "fast render",
+    "render alternative",
 ]
+
 
 USER_AGENT = "MaqueteMonitor/1.0 (monitoring architecture subreddits)"
 
