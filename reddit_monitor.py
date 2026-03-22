@@ -38,50 +38,20 @@ SUBREDDITS = [
     "Blender",
     "InteriorDesign",
     "architects",
-    "Rhino",
-    "AutoCAD",
-    "3Dmodeling",
     "archviz",
-    "Lumion",
-    "enscape3d",
-    "unrealengine",  # archviz community uses UE5
-    "cinematography",  # render quality discussions
+    "Rhino",
 ]
 
 KEYWORDS = [
-    "render",
-    "rendering",
-    "visualisation",
-    "visualization",
-    "photorealistic",
-    "AI render",
-    "presentation",
-    "client presentation",
+    "render photorealistic",
+    "AI render architecture",
     "SketchUp render",
-    "exterior render",
-    "interior render",
-    "3d render",
-    "v-ray",
-    "vray",
-    "enscape",
-    "lumion",
-    "twinmotion",
-    "archviz",
-    "architectural visualization",
-    "design presentation",
-    "render engine",
-    "realistic render",
-    "how to render",
-    "render quality",
-    "render time",
-    "render cost",
-    "d5 render",
-    "corona renderer",
-    "cheap render",
-    "fast render",
-    "render alternative",
+    "vray enscape lumion alternative",
+    "render cost time slow",
+    "interior exterior render",
+    "archviz visualization",
+    "twinmotion d5 corona",
 ]
-
 
 USER_AGENT = "MaqueteMonitor/1.0 (monitoring architecture subreddits)"
 

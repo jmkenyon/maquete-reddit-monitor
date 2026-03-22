@@ -1,5 +1,0 @@
-.env
-seen_posts.json
-__pycache__/
-*.pyc
-.venv/
